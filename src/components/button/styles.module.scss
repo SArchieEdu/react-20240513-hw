@@ -1,0 +1,23 @@
+.root {
+  padding: 2px 3px;
+}
+
+.disabled {
+  opacity: 0.5;
+}
+
+.default {
+  background-color: rgb(204, 204, 204);
+  color: black;
+}
+.alternative {
+  background-color: orangered;
+  color: white;
+}
+
+.primary {
+  border-radius: 2px;
+}
+.secondary {
+  border-radius: 4px;
+}

@@ -1,0 +1,10 @@
+.root {
+  display: flex;
+  flex-direction: column;
+}
+
+.dish {
+  &:not(:last-child) {
+    margin-bottom: 10px;
+  }
+}
